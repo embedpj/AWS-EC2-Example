@@ -71,6 +71,7 @@ SECRET_KEY=""
 ```
 npm install
 npm run start
+Add a second port below SSH port 22
 ```
 
 > NOTE - We will have to edit the **inbound rules** in the security group of our EC2, in order to allow traffic from our particular port
