@@ -5,6 +5,7 @@
 1. Clone this project
 ```
 git clone https://github.com/verma-kunal/AWS-Session.git
+git clone git@github.com:embedpj/AWS-EC2-Example.git
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
