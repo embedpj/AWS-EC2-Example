@@ -12,10 +12,9 @@ git clone git@github.com:embedpj/AWS-EC2-Example.git
 DOMAIN= ""
 PORT=3000
 STATIC_DIR="./client"
-
 PUBLISHABLE_KEY=""
 SECRET_KEY=""
-
+   OR
 DOMAIN="http://localhost:3000" 
 PORT=3000 
 STATIC_DIR="./client" 
