@@ -55,7 +55,7 @@ sudo apt update
 
 1. Clone this project in the remote VM
 ```
-git clone https://github.com/verma-kunal/AWS-Session.git
+https://github.com/embedpj/AWS-EC2-Example.git
 ```
 2. Setup the following environment variables - `(.env)` file
 ```
@@ -72,7 +72,7 @@ SECRET_KEY=""
 ```
 npm install
 npm run start
-Add a second port below SSH port 22
+Add a second port 3000 below SSH port 22
 ```
 
 > NOTE - We will have to edit the **inbound rules** in the security group of our EC2, in order to allow traffic from our particular port
